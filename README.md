@@ -7,7 +7,7 @@ A complete documentation and analysis of Series and Parallel LED circuits, inclu
 **Student Name:** [Esraa Osama]  
 **Course:** ICARUS Engineering Fundamentals  
 **Instructor:** Eng. Abdelrahman Salah 
-**Date:** [21/11/1994]
+**Date:** [21/11/2025]
 
 ---
 
@@ -96,8 +96,7 @@ A complete documentation and analysis of Series and Parallel LED circuits, inclu
 -<img width="464" height="293" alt="image" src="https://github.com/user-attachments/assets/b8a03859-38d4-4be9-b985-75c342a6d83f" />
 -<img width="456" height="395" alt="image" src="https://github.com/user-attachments/assets/213570bd-356e-481f-ae32-92d88e5092d3" />
 
-
-**Step P4 — wires (+) with (+) and (-) with (-) and battary
+**Step P4 — wires (+) with (+) and (-) with (-) and battary**
 <img width="463" height="677" alt="image" src="https://github.com/user-attachments/assets/8ef3163b-8340-4703-8519-2069206fa645" />
 
 **Step P5 — Measure branch currents (I1, I2, I3)**  
