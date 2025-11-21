@@ -58,21 +58,21 @@ A complete documentation and analysis of Series and Parallel LED circuits, inclu
 
 **Step S1 — Prepare components**  
 - Place the 3 red LEDs and 3 resistors near the breadboard.  
-<img width="418" height="764" alt="image" src="https://github.com/user-attachments/assets/82eb0286-6f60-44b5-aecd-b17ce16e0db2" />
+- <img width="418" height="764" alt="image" src="https://github.com/user-attachments/assets/82eb0286-6f60-44b5-aecd-b17ce16e0db2" />
 
 **Step S2 — Insert first LED + resistor**  
 - Insert LED1 on breadboard  and connect one terminal of transistor with cathod of led
- <img width="413" height="612" alt="image" src="https://github.com/user-attachments/assets/62d700a5-f399-4dba-ada6-e316e4fd8bcd" />
+- <img width="413" height="612" alt="image" src="https://github.com/user-attachments/assets/62d700a5-f399-4dba-ada6-e316e4fd8bcd" />
 
 **Step S3 — insert LED2 + R2 and LED3 + R3 in series**  
 - Insert LED2 on breadboard  and connect one terminal with cathod of led2 and anod of led1
-<img width="474" height="423" alt="image" src="https://github.com/user-attachments/assets/961a7235-9178-4f74-b498-b4e43eb414e7" />
+-<img width="474" height="423" alt="image" src="https://github.com/user-attachments/assets/961a7235-9178-4f74-b498-b4e43eb414e7" />
 - Insert LED3 on breadboard  and connect one terminal with cathod of led3 and anod of led2
-<img width="472" height="467" alt="image" src="https://github.com/user-attachments/assets/bcd5d056-0ee6-44af-81e6-2532e36ae87b" />
+-<img width="472" height="467" alt="image" src="https://github.com/user-attachments/assets/bcd5d056-0ee6-44af-81e6-2532e36ae87b" />
 
 **Step P4 — insert the jumbers**
 - connect jumber from the other terminal of first resistor for negative and other terminal of third  resitor for positive in breadbord
-<img width="453" height="576" alt="image" src="https://github.com/user-attachments/assets/e7b65aa2-84f6-4962-8ac1-36921c423d9c" />
+- <img width="453" height="576" alt="image" src="https://github.com/user-attachments/assets/e7b65aa2-84f6-4962-8ac1-36921c423d9c" />
 
 
 **Step S5 — connect battery**  
@@ -82,7 +82,7 @@ A complete documentation and analysis of Series and Parallel LED circuits, inclu
 **Step S6 — Measure LED with multimeter**
 
 **Step S7 — Capture final series overview**  
--<img width="1481" height="468" alt="image" src="https://github.com/user-attachments/assets/273e1b5b-29c6-40ce-8e36-74a0447cca58" />
+- <img width="1481" height="468" alt="image" src="https://github.com/user-attachments/assets/273e1b5b-29c6-40ce-8e36-74a0447cca58" />
 
 ---
 
